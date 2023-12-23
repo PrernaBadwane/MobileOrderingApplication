@@ -1,0 +1,1394 @@
+[
+    {
+        "modelCode": "SM-G998B1",
+        "brand": "Samsung",
+        "model": "Galaxy S24 Ultra",
+        "price": 89999,
+        "currency": "INR",
+        "availability": "pre-order",
+        "offers": [
+          {
+            "type": "percentage",
+            "value": 10,
+            "description": "Pre-order now and get 10% off!"
+          }
+        ],
+        "specifications": {
+          "display": {
+            "size": "6.8 inches",
+            "resolution": "3200x1440 pixels",
+            "type": "AMOLED"
+          },
+          "processor": "Snapdragon 9 Gen 4",
+          "camera": {
+            "rear": {
+              "type": "Quad",
+              "main": "200",
+              "ultraWide": "12",
+              "telephoto": "10",
+              "depth": "5"
+            },
+            "front": "40"
+          },
+          "battery": "5500",
+          "storage": {
+            "ram":" 16",
+            "rom": "1"
+          },
+          "operatingSystem": "Android 14"
+        },
+        "features": [
+          "S Pen support",
+          "Under-display camera",
+          "Fast charging",
+          "Water resistant"
+        ],
+        "images": [
+          "https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Samsung-Galaxy-S24-Ultra-render.jpg",
+          "https://i.gadgets360cdn.com/large/galaxy_s23_ultra_green_1685683384322.jpg?downsize=950:*"
+        ],
+        "tofeature": false,
+        "weeklyoffer": true,
+        "specialoffer": false
+        
+    },
+
+    {
+      "modelCode": "SM-G998B2",
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 5",
+      "price": 74999,
+      "currency": "INR",
+      "availability": "in_stock",
+      "offers": [
+        {
+          "type": "cashback",
+          "value": 5000,
+          "description": "Get ₹5,000 cashback on HDFC cards"
+        }
+      ],
+      "specifications": {
+        "display": {
+          "size": "7.6 inches (folded)",
+          "resolution": "2208x1768 pixels (folded)",
+          "type": "AMOLED"
+        },
+        "processor": "Snapdragon 8 Gen 3",
+        "camera": {
+          "rear": {
+            "type": "Triple",
+            "main": "50mp",
+            "ultraWide": "12mp",
+            "telephoto": "10mp"
+          },
+          "front": "16mp"
+        },
+        "battery": "5000mAH",
+        "storage": {
+          "ram": "12gb",
+          "rom": "512gb"
+        },
+        "operatingSystem": "Android 13"
+      },
+      "features": [
+        "Under-display camera",
+        "Foldable display",
+        "S Pen support",
+        "Fast charging"
+      ],
+      "images": [
+        "https://www.livemint.com/lm-img/img/2023/07/24/600x338/galaxy_z_fold_5_1690179206022_1690179212959.png",
+        "https://images.samsung.com/in/smartphones/galaxy-z-fold5/images/galaxy-z-fold5-highlights-kv-a.jpg?imbypass=true"
+      ],
+      "tofeature": false,
+      "weeklyoffer": false,
+      "specialoffer": true
+     
+  },
+
+  {
+    "modelCode": "SM-G998B3",
+    "brand": "Samsung",
+    "model": "Galaxy M54",
+    "price": 21999,
+    "currency": "INR",
+    "availability": "not available",
+    "offers": [
+      {
+        "type": "discount",
+        "value": 2000,
+        "description": "₹2,000 instant discount"
+      }
+    ],
+    "specifications": {
+      "display": {
+        "size": "6.6 inches",
+        "resolution": "2400x1080 pixels",
+        "type": "AMOLED"
+      },
+      "processor": "Snapdragon 680",
+      "camera": {
+        "rear": {
+          "type": "Triple",
+          "main": "64mp",
+          "ultraWide": "8mp",
+          "depth": "5mp"
+        },
+        "front": "32mp"
+      },
+      "battery": "5000mAH",
+      "storage": {
+        "ram": "6gb",
+        "rom":"128gb"
+      },
+      "operatingSystem": "Android 13"
+    },
+    "features": [
+      "Triple rear camera",
+      "Large display",
+      "Long battery life",
+      "Affordable price"
+    ],
+    "images": [
+      "https://i.ebayimg.com/images/g/L8YAAOSwkSdlWIoF/s-l960.jpg",
+      "https://img.olhardigital.com.br/wp-content/uploads/2023/04/galaxy-m54-costas.jpg"
+    ],
+    "tofeature": false,
+    "weeklyoffer": false,
+    "specialoffer": false
+    
+},
+
+{
+  "modelCode": "SM-G998B4",
+  "brand": "Samsung",
+  "model": "Galaxy S23 Plus",
+  "price": 64999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "exchange",
+      "description": "Get up to ₹15,000 exchange bonus on eligible smartphones"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.6 inches",
+      "resolution": "2340x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8 Gen 2",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "50mp",
+        "ultraWide": "12mp",
+        "telephoto": "10mp"
+      },
+      "front": 10
+    },
+    "battery": "4800mAH",
+    "storage": {
+      "ram": "8gb",
+      "rom": "256gb"
+    },
+    "operatingSystem": "Android 13"
+  },
+  "features": [
+    "Powerful processor",
+    "Triple rear camera",
+    "Dynamic AMOLED display",
+    "All-day battery life"
+  ],
+  "images": [
+    "https://images.samsung.com/in/smartphones/galaxy-s23/images/galaxy-s23-highlights-kv.jpg",
+    "https://dealy.com/1825920-large_default/samsung-galaxy-s23-plus-5g-the-ather-style-wood-effect-case.jpg"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": true
+  
+},
+
+{
+  "modelCode": "SM-G998B5",
+  "brand": "Samsung",
+  "model": "Galaxy F64 5G",
+  "price": 18999,
+  "currency": "INR",
+  "availability": "pre-order",
+  "offers": [
+    {
+      "type": "zero_cost_emi",
+      "description": "No-cost EMI available for up to 6 months"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 778G 5G",
+    "camera": {
+      "rear": {
+        "type": "Quad",
+        "main": "64mp",
+        "ultraWide": "8mp",
+        "macro": "2mp",
+        "depth": "5mp"
+      },
+      "front": "16mp"
+    },
+    "battery": "5000mAH",
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 13"
+  },
+  "features": [
+    "5G connectivity",
+    "Long battery life",
+    "Large display",
+    "Affordable price"
+  ],
+  "images": [
+    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989028?$FB_TYPE_A_JPG$",
+    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989064?$FB_TYPE_A_JPG$"
+  ],
+  "tofeature": false,
+  "weeklyoffer": true,
+  "specialoffer": true
+
+},
+
+{
+  "modelCode": "SM-G998B6",
+  "brand": "Samsung",
+  "model": "Galaxy Z Flip 5",
+  "price": 112000,
+  "currency": "INR",
+  "availability": "pre-order",
+  "offers": [
+    {
+      "type": "free_gift",
+      "description": "Get a free Galaxy Watch 5 with pre-order"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches (unfolded)",
+      "resolution": "2300x816 pixels (unfolded)",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8 Gen 3",
+    "camera": {
+      "rear": {
+        "type": "Dual",
+        "main": "12mp",
+        "ultraWide": "12mp"
+      },
+      "front": "10mp"
+    },
+    "battery": "3300mAH",
+    "storage": {
+      "ram": "8gb",
+      "rom": "256gb"
+    },
+    "operatingSystem": "Android 13"
+  },
+  "features": [
+    "Foldable display",
+    "Compact design",
+    "Large cover display",
+    "Powerful processor"
+  ],
+  "images": [
+    "https://images.samsung.com/in/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-camera-flexcam.jpg?imbypass=true",
+    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-sustainability.jpg?imbypass=true"
+  ],
+  "tofeature": false,
+  "weeklyoffer": true,
+  "specialoffer": false
+  
+},
+
+{
+  "modelCode": "SM-G998B7",
+  "brand": "Samsung",
+  "model": "Galaxy A24",
+  "price": 15999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "discount",
+      "value": 1000,
+      "description": "₹1,000 instant discount on SBI Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 695 5G",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "13mp"
+    },
+    "battery": "5000mAH",
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 13"
+  },
+  "features": [
+    "5G connectivity",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://images.samsung.com/is/image/samsung/p6pim/africa_en/feature/164536643/africa_en-feature-simple-yet-stylish-536327303?$FB_TYPE_A_JPG$",
+    "https://imgeng.jagran.com/images/2023/apr/samsung-galaxy-a341680858789853.jpg"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": true
+ 
+},
+
+{
+  "modelCode": "SM-G998B8",
+  "brand": "Samsung",
+  "model": "Galaxy A25",
+  "price": 15999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "discount",
+      "value": 1000,
+      "description": "₹1,000 instant discount on ICICI Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 695 5G",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "13mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "5G connectivity",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B9",
+  "brand": "Samsung",
+  "model": "Galaxy M54 5G",
+  "price": 21999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "discount",
+      "value": 2000,
+      "description": "₹2,000 instant discount"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.6 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 680",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "64mp",
+        "ultraWide": "8mp",
+        "depth": "5mp"
+      },
+      "front": "32mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Triple rear camera",
+    "Large display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B10",
+  "brand": "Samsung",
+  "model": "Galaxy F73 5G",
+  "price": 19999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "zero_cost_emi",
+      "description": "No-cost EMI available for up to 6 months"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 778G 5G",
+    "camera": {
+      "rear": {
+        "type": "Quad",
+        "main": "64mp",
+        "ultraWide": "8mp",
+        "macro": "2mp",
+        "depth": "5mp"
+      },
+      "front": "16mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "5G connectivity",
+    "Long battery life",
+    "Large display",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B11",
+  "brand": "Samsung",
+  "model": "Galaxy M35",
+  "price": 14999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "cashback",
+      "value": 1500,
+      "description": "₹1,500 cashback on HDFC Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 695 5G",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "50mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "13mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "5G connectivity",
+    "Powerful processor",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B12",
+  "brand": "Samsung",
+  "model": "Galaxy F54 5G",
+  "price": 23999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "exchange_offer",
+      "value": 2000,
+      "description": "Get up to ₹2,000 off on exchange"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "Super AMOLED"
+    },
+    "processor": "Snapdragon 778G 5G",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "50mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "32mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "8gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "5G connectivity",
+    "Super AMOLED display",
+    "Powerful processor",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B13",
+  "brand": "Samsung",
+  "model": "Galaxy A34 5G",
+  "price": 17999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "bundle_offer",
+      "description": "Get free Galaxy Buds Live with purchase"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.6 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 695 5G",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "50mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "13mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "5G connectivity",
+    "AMOLED display",
+    "Long battery life",
+    "Sleek design"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B14",
+  "brand": "Samsung",
+  "model": "Galaxy M64 5G",
+  "price": 25999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "discount",
+      "value": 3000,
+      "description": "₹3,000 instant discount on SBI Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "Super AMOLED Plus"
+    },
+    "processor": "Snapdragon 8 Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Quad",
+        "main": "108mp",
+        "ultraWide": "12mp",
+        "macro": "5mp",
+        "depth": "5mp"
+      },
+      "front": "32mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "8gb",
+      "rom": "256gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Flagship processor",
+    "108MP quad camera",
+    "Super AMOLED Plus display",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B15",
+  "brand": "Samsung",
+  "model": "Galaxy A75 5G",
+  "price": 31999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "exchange_offer",
+      "value": 4000,
+      "description": "Get up to ₹4,000 off on exchange"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "3216x1440 pixels",
+      "type": "Dynamic AMOLED 2X"
+    },
+    "processor": "Snapdragon 8 Gen 2",
+    "camera": {
+      "rear": {
+        "type": "Quad",
+        "main": "108mp",
+        "ultraWide": "12mp",
+        "telephoto": "10mp",
+        "depth": "5mp"
+      },
+      "front": "40mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "8gb",
+      "rom": "256gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Flagship processor",
+    "108MP quad camera",
+    "Dynamic AMOLED 2X display",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B16",
+  "brand": "Samsung",
+  "model": "Galaxy F83 5G",
+  "price": 29999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "bundle_offer",
+      "description": "Get free Galaxy Buds Pro with purchase"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.8 inches",
+      "resolution": "3200x1440 pixels",
+      "type": "Dynamic AMOLED 2X"
+    },
+    "processor": "Snapdragon 8 Gen 2",
+    "camera": {
+      "rear": {
+        "type": "Quad",
+        "main": "108mp",
+        "ultraWide": "12mp",
+        "telephoto": "10mp",
+        "macro": "5mp"
+      },
+      "front": "40mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "12gb",
+      "rom": "256gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Flagship processor",
+    "108MP quad camera",
+    "Dynamic AMOLED 2X display",
+    "Large RAM capacity",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B17",
+  "brand": "Samsung",
+  "model": "Galaxy M45 5G",
+  "price": 27999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "cashback",
+      "value": 5000,
+      "description": "₹5,000 cashback on select bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "Super AMOLED Plus"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "64mp",
+        "ultraWide": "12mp",
+        "macro": "5mp"
+      },
+      "front": "32mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "8gb",
+      "rom": "256gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "64MP triple camera",
+    "Super AMOLED Plus display",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B18",
+  "brand": "Samsung",
+  "model": "Galaxy A54 5G",
+  "price": 24999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "exchange_offer",
+      "value": 3500,
+      "description": "Get up to ₹3,500 off on exchange"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.6 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "Super AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "50mp",
+        "ultraWide": "12mp",
+        "macro": "5mp"
+      },
+      "front": "32mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "8gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "50MP triple camera",
+    "Super AMOLED display",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B19",
+  "brand": "Samsung",
+  "model": "Galaxy F53 5G",
+  "price": 22999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "discount",
+      "value": 2500,
+      "description": "₹2,500 instant discount on ICICI Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.6 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "Super AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "12mp",
+        "macro": "5mp"
+      },
+      "front": "32mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "8gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "Super AMOLED display",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B20",
+  "brand": "Samsung",
+  "model": "Galaxy M34 5G",
+  "price": 19999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "bundle_offer",
+      "description": "Get free Galaxy Fit 3 fitness band with purchase"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "Super AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "5mp"
+      },
+      "front": "13mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "Super AMOLED display",
+    "Long battery life"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B21",
+  "brand": "Samsung",
+  "model": "Galaxy A25 5G",
+  "price": 15999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "cashback",
+      "value": 1200,
+      "description": "₹1,200 cashback on HDFC Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "13mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "6gb",
+      "rom": "128gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B22",
+  "brand": "Samsung",
+  "model": "Galaxy M15 5G",
+  "price": 13999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "exchange_offer",
+      "value": 1500,
+      "description": "Get up to ₹1,500 off on exchange"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "8mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "4gb",
+      "rom": "64gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B23",
+  "brand": "Samsung",
+  "model": "Galaxy F15 5G",
+  "price": 12999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "no_cost_emi",
+      "description": "No-cost EMI options available"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "8mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "4gb",
+      "rom": "64gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B24",
+  "brand": "Samsung",
+  "model": "Galaxy A14 5G",
+  "price": 11999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "discount",
+      "value": 500,
+      "description": "₹500 instant discount on Axis Bank cards"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "8mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "4gb",
+      "rom": "64gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B25",
+  "brand": "Samsung",
+  "model": "Galaxy M05 5G",
+  "price": 10999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "exchange_offer",
+      "value": 750,
+      "description": "Get up to ₹750 off on exchange"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "8mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "4gb",
+      "rom": "64gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://placeholder.com/300x400/placeholder",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": false,
+  "specialoffer": false
+},
+
+{
+  "modelCode": "SM-G998B26",
+  "brand": "Samsung",
+  "model": "Galaxy A05 5G",
+  "price": 9999,
+  "currency": "INR",
+  "availability": "in_stock",
+  "offers": [
+    {
+      "type": "bundle_offer",
+      "description": "Get free Galaxy Buds Live with purchase"
+    }
+  ],
+  "specifications": {
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "2400x1080 pixels",
+      "type": "AMOLED"
+    },
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera": {
+      "rear": {
+        "type": "Triple",
+        "main": "48mp",
+        "ultraWide": "8mp",
+        "macro": "2mp"
+      },
+      "front": "8mp"
+    },
+    "battery": 5000,
+    "storage": {
+      "ram": "4gb",
+      "rom": "64gb"
+    },
+    "operatingSystem": "Android 14"
+  },
+  "features": [
+    "Powerful processor",
+    "48MP triple camera",
+    "AMOLED display",
+    "Long battery life",
+    "Affordable price"
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71+b5nG+WFL._SL1500_.jpg",
+    "https://placeholder.com/300x400/placeholder"
+  ],
+  "tofeature": false,
+  "weeklyoffer": true,
+  "specialoffer": false
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+]
+
