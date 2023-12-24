@@ -23,17 +23,17 @@
           "camera": {
             "rear": {
               "type": "Quad",
-              "main": "200",
-              "ultraWide": "12",
-              "telephoto": "10",
-              "depth": "5"
+              "main": "200mp",
+              "ultraWide": "12mp",
+              "telephoto": "10mp",
+              "depth": "5mp"
             },
-            "front": "40"
+            "front": "40mp"
           },
-          "battery": "5500",
+          "battery": "5500mAH",
           "storage": {
-            "ram":" 16",
-            "rom": "1"
+            "ram":" 16gb",
+            "rom": "1tb"
           },
           "operatingSystem": "Android 14"
         },
@@ -412,8 +412,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://i.gadgets360cdn.com/large/samsung_galaxy_A24_samsung_1681912093484.jpg",
+    "https://cdn1.smartprix.com/rx-ihrPLONAn-w420-h420/samsung-galaxy-a25-5.jpg"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -423,7 +423,7 @@
 {
   "modelCode": "SM-G998B9",
   "brand": "Samsung",
-  "model": "Galaxy M54 5G",
+  "model": "Galaxy M44 5G",
   "price": 21999,
   "currency": "INR",
   "availability": "in_stock",
@@ -464,8 +464,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://hackermafia.in/wp-content/uploads/2023/11/Samsung-Galaxy-M44-Launched.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgT1JWZw7gaZ5QhvbACJEBkdVp6SX1xvyCQ&usqp=CAU"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -516,8 +516,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://www.91-cdn.com/hub/wp-content/uploads/2022/03/A53_5G.jpg?tr=w-360,c-at_max,q-100,dpr-2,e-sharpen",
+    "https://images.meesho.com/images/products/196032063/xct3q_512.webp"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -568,8 +568,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDnLd5agC6o69eUE02TxvO8CaNCe7hnqIDw&usqp=CAU",
+    "https://mymobilesnews.com/wp-content/uploads/2021/06/Samsung-Galaxy-M35.jpg"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -620,8 +620,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBWsaAcs_Rr93AFKSP0_JaMv0h6ra6KcN4g&usqp=CAU",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2HO5yC7Qnjbgr9Dr_gtzyzVhbzqvIoamew&usqp=CAU"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -671,8 +671,8 @@
     "Sleek design"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41znD9o6VRL._SX300_SY300_QL70_FMwebp_.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B6IpJ75yS0qgGkaF2rZHpQrVPxL_WfuzjWflQJTm9inTwUTuVX61rDsH-aWbw3kH0GM&usqp=CAU"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -724,8 +724,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e146bzkgins/gallery/in-galaxy-f14-5g-sm-e146bzkgins-thumb-536038467?$240_240_PNG$",
+    "https://i.gadgets360cdn.com/large/galaxy_f14_5g_samsung_1679295508544.jpg?downsize=950:*"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -777,8 +777,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164853000/in-feature-galaxy-a-538644014?$FB_TYPE_A_JPG$",
+    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a057flvhins/gallery/in-galaxy-a-sm-a057flvhins-light-violet-light-violet-thumb-538631105?$240_240_PNG$"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -830,8 +830,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e236bzghins/gallery/in-galaxy-f23-6gb-ram-sm-e236bzghins-531400637?$684_547_PNG$",
+    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e236bidhins/gallery/in-galaxy-f23-6gb-ram-sm-e236bidhins-532476160?$684_547_PNG$"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -882,8 +882,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164683418/in-feature-galaxy-m-537426500?$FB_TYPE_A_JPG$",
+    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164683419/in-feature-galaxy-m-537426502?$FB_TYPE_A_JPG$"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -934,8 +934,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a54/17125-A54-White-PDP-collage-720x720px.jpg?imwidth=480",
+    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a54/a54-5g-Awesome-Violet.jpg?imwidth=480"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -986,8 +986,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/1440x450_1.jpg",
+    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/blue.png?imwidth=480"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1037,8 +1037,8 @@
     "Long battery life"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/n/2/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrhrthmjwaamj.jpeg?q=70",
+    "https://gadgetstime.todaypriceindia.in/images/samsung-galaxy-m34-5g.webp"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1090,8 +1090,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://images.samsung.com/is/image/samsung/p6pim/levant/feature/164944088/levant-feature-defining-simplicity-in-design-539450390?$FB_TYPE_A_JPG$",
+    "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a25-2.jpg."
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1143,8 +1143,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://rukminim2.flixcart.com/image/416/416/xif0q/cases-covers/back-cover/f/o/6/subuz-1148-6579-mobom-original-imagpedkmtgyfeea.jpeg?q=70",
+    "https://usdmobiles.com/wp-content/uploads/2023/05/Samsung-Galaxy-M14-5G-Blue-color.jpg"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1195,8 +1195,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/3156+WyZ5aL.jpg",
+    "https://www.thetechoutlook.com/wp-content/uploads/2022/10/Untitled-design-19-1.jpg"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1248,8 +1248,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://lh3.googleusercontent.com/spp/AE_ITi15Inu9v-YwIcW1MxDA8XnAdhFyiLTTF1tMAyLNbk9ESBa0nLbx7CPuujvaB5g3_HKRq8OoxmtJJyXgI0UszHbiMRPXEnMLcccI10onDaLz0Yqe6rIw310nZb3kRrQXrxspeCXmns4DzJOt22h353WhNJwgP74rvRzSgLPpcujKV9G7OewnediV7J0_2eHYX65_LjYcAA=s512-rw-pd-pc0x00ffffff",
+    "https://lh3.googleusercontent.com/spp/AE_ITi3IZiSS6NoCeM01f3PQNxsfbJjOnsTIRqUuSDO4FFqGRMcWJ9auuK8xYMkN8FQ3-s5QfZJ9EDVJiQr6s9B0JPVDp6511CJs_nlJPzCepH-NeCWwu941F3l29HSvn9v8LawVQjf3XERu6ohPOpihcPmFbJC9MeJKcKZQWXm_uHAwwHwg1yPUmQTjtGLyNVTCuIPDIJKmVw=s512-rw-pd-pc0x00ffffff"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1301,8 +1301,8 @@
     "Affordable price"
   ],
   "images": [
-    "https://placeholder.com/300x400/placeholder",
-    "https://placeholder.com/300x400/placeholder"
+    "https://www.electrorates.com/blogimg/samsung_Galaxy_M05.webp",
+    "https://i1.wp.com/mobilesly.com/wp-content/uploads/2022/04/Samsung-Galaxy-A54.jpg?fit=498%2C557&ssl=1"
   ],
   "tofeature": false,
   "weeklyoffer": false,
@@ -1354,41 +1354,12 @@
   ],
   "images": [
     "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71+b5nG+WFL._SL1500_.jpg",
-    "https://placeholder.com/300x400/placeholder"
+    "https://hindi.maharashtranama.com/wp-content/uploads/2023/07/Samsung-Galaxy-A05-1.jpg"
   ],
   "tofeature": false,
   "weeklyoffer": true,
   "specialoffer": false
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 ]
 
