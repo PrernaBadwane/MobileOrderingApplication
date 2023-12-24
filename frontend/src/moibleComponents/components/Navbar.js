@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className=' md:static absolute bg-[#27374D] md:min-h-fit min-h-[100%] left-0 top-[-100%] w-full flex  items-top px-5  '>
             <ul className='flex md:flex-row flex-col item-:item-center md:gap-[2vw] gap-8 text-white'>
             <NavLink to={"/"}>   <li className='hover:text-[#9DB2BF] text-xs'>Home</li></NavLink>
-            <NavLink to={"/view"}>  <li className='hover:text-[#9DB2BF] text-xs'>Products</li></NavLink>
+            <NavLink to={"/products"}>  <li className='hover:text-[#9DB2BF] text-xs'>Products</li></NavLink>
             </ul>
         </div>
       

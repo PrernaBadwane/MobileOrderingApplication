@@ -3,40 +3,10 @@ import React from 'react'
 const home = () => {
   return (
     <div className=''> 
-     <li></li>
-     <li></li>
-     <li></li>
-     
-     <li></li>
-     
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     <li></li>
-     
-     
-     
+    
+     <div className='bg-black'>
+
+     </div>
      
     </div>
   )
