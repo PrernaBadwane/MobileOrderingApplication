@@ -37,19 +37,19 @@
           },
           "operatingSystem": "Android 14"
         },
-        "features": [
-          "S Pen support",
-          "Under-display camera",
-          "Fast charging",
-          "Water resistant"
-        ],
-        "images": [
-          "https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Samsung-Galaxy-S24-Ultra-render.jpg",
-          "https://i.gadgets360cdn.com/large/galaxy_s23_ultra_green_1685683384322.jpg?downsize=950:*"
-        ],
-        "tofeature": false,
-        "weeklyoffer": true,
-        "specialoffer": false
+        "features": {
+          "f1":"S Pen support",
+          "f2":"Under-display camera",
+          "f3":"Fast charging",
+          "f4":"Water resistant"
+        },
+        "images": {
+          "full":"https://www.91-cdn.com/hub/wp-content/uploads/2023/11/Samsung-Galaxy-S24-Ultra-render.jpg",
+          "mid":"https://i.gadgets360cdn.com/large/galaxy_s23_ultra_green_1685683384322.jpg?downsize=950:*"
+        },
+        "tofeature": 0,
+        "weeklyoffer": 1,
+        "specialoffer": 0
         
     },
 
@@ -90,19 +90,19 @@
         },
         "operatingSystem": "Android 13"
       },
-      "features": [
-        "Under-display camera",
-        "Foldable display",
-        "S Pen support",
-        "Fast charging"
-      ],
-      "images": [
-        "https://www.livemint.com/lm-img/img/2023/07/24/600x338/galaxy_z_fold_5_1690179206022_1690179212959.png",
-        "https://images.samsung.com/in/smartphones/galaxy-z-fold5/images/galaxy-z-fold5-highlights-kv-a.jpg?imbypass=true"
-      ],
-      "tofeature": false,
-      "weeklyoffer": false,
-      "specialoffer": true
+      "features": {
+        "f1":"Under-display camera",
+        "f2":"Foldable display",
+        "f3":"S Pen support",
+        "f4":"Fast charging"
+      },
+      "images": {
+        "full":"https://www.livemint.com/lm-img/img/2023/07/24/600x338/galaxy_z_fold_5_1690179206022_1690179212959.png",
+        "mid":"https://images.samsung.com/in/smartphones/galaxy-z-fold5/images/galaxy-z-fold5-highlights-kv-a.jpg?imbypass=1"
+      },
+      "tofeature": 1,
+      "weeklyoffer": 0,
+      "specialoffer": 1
      
   },
 
@@ -143,19 +143,19 @@
       },
       "operatingSystem": "Android 13"
     },
-    "features": [
-      "Triple rear camera",
-      "Large display",
-      "Long battery life",
-      "Affordable price"
-    ],
-    "images": [
-      "https://i.ebayimg.com/images/g/L8YAAOSwkSdlWIoF/s-l960.jpg",
-      "https://img.olhardigital.com.br/wp-content/uploads/2023/04/galaxy-m54-costas.jpg"
-    ],
-    "tofeature": false,
-    "weeklyoffer": false,
-    "specialoffer": false
+    "features": {
+      "f1":"Triple rear camera",
+      "f2":"Large display",
+      "f3":"Long battery life",
+      "f4":"Affordable price"
+    },
+    "images": {
+      "full":"https://i.ebayimg.com/images/g/L8YAAOSwkSdlWIoF/s-l960.jpg",
+      "mid":"https://img.olhardigital.com.br/wp-content/uploads/2023/04/galaxy-m54-costas.jpg"
+    },
+    "tofeature": 0,
+    "weeklyoffer": 0,
+    "specialoffer": 0
     
 },
 
@@ -195,19 +195,19 @@
     },
     "operatingSystem": "Android 13"
   },
-  "features": [
-    "Powerful processor",
-    "Triple rear camera",
-    "Dynamic AMOLED display",
-    "All-day battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/in/smartphones/galaxy-s23/images/galaxy-s23-highlights-kv.jpg",
-    "https://dealy.com/1825920-large_default/samsung-galaxy-s23-plus-5g-the-ather-style-wood-effect-case.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": true
+  "features": {
+    "f1":"Powerful processor",
+    "f2":"Triple rear camera",
+    "f3":"Dynamic AMOLED display",
+    "f4":"All-day battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/in/smartphones/galaxy-s23/images/galaxy-s23-highlights-kv.jpg",
+    "mid":"https://dealy.com/1825920-large_default/samsung-galaxy-s23-plus-5g-the-ather-style-wood-effect-case.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 1
   
 },
 
@@ -248,19 +248,19 @@
     },
     "operatingSystem": "Android 13"
   },
-  "features": [
-    "5G connectivity",
-    "Long battery life",
-    "Large display",
-    "Affordable price"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989028?$FB_TYPE_A_JPG$",
-    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989064?$FB_TYPE_A_JPG$"
-  ],
-  "tofeature": false,
-  "weeklyoffer": true,
-  "specialoffer": true
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"Long battery life",
+    "f3":"Large display",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989028?$FB_TYPE_A_JPG$",
+    "mid":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989064?$FB_TYPE_A_JPG$"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 1,
+  "specialoffer": 1
 
 },
 
@@ -299,19 +299,19 @@
     },
     "operatingSystem": "Android 13"
   },
-  "features": [
-    "Foldable display",
-    "Compact design",
-    "Large cover display",
-    "Powerful processor"
-  ],
-  "images": [
-    "https://images.samsung.com/in/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-camera-flexcam.jpg?imbypass=true",
-    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-sustainability.jpg?imbypass=true"
-  ],
-  "tofeature": false,
-  "weeklyoffer": true,
-  "specialoffer": false
+  "features": {
+    "f1":"Foldable display",
+    "f2":"Compact design",
+    "f3":"Large cover display",
+    "f4":"Powerful processor"
+  },
+  "images": {
+    "full":"https://images.samsung.com/in/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-camera-flexcam.jpg?imbypass=1",
+    "mid":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-z-flip5/images/galaxy-z-flip5-highlights-sustainability.jpg?imbypass=1"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 1,
+  "specialoffer": 0
   
 },
 
@@ -352,19 +352,19 @@
     },
     "operatingSystem": "Android 13"
   },
-  "features": [
-    "5G connectivity",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/africa_en/feature/164536643/africa_en-feature-simple-yet-stylish-536327303?$FB_TYPE_A_JPG$",
-    "https://imgeng.jagran.com/images/2023/apr/samsung-galaxy-a341680858789853.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": true
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/p6pim/africa_en/feature/164536643/africa_en-feature-simple-yet-stylish-536327303?$FB_TYPE_A_JPG$",
+    "mid":"https://imgeng.jagran.com/images/2023/apr/samsung-galaxy-a341680858789853.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 1
  
 },
 
@@ -398,26 +398,26 @@
       },
       "front": "13mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "5G connectivity",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://i.gadgets360cdn.com/large/samsung_galaxy_A24_samsung_1681912093484.jpg",
-    "https://cdn1.smartprix.com/rx-ihrPLONAn-w420-h420/samsung-galaxy-a25-5.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://i.gadgets360cdn.com/large/samsung_galaxy_A24_samsung_1681912093484.jpg",
+    "mid":"https://cdn1.smartprix.com/rx-ihrPLONAn-w420-h420/samsung-galaxy-a25-5.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -450,26 +450,26 @@
       },
       "front": "32mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Triple rear camera",
-    "Large display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://hackermafia.in/wp-content/uploads/2023/11/Samsung-Galaxy-M44-Launched.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgT1JWZw7gaZ5QhvbACJEBkdVp6SX1xvyCQ&usqp=CAU"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Triple rear camera",
+    "f2":"Large display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images":{
+   "full": "https://hackermafia.in/wp-content/uploads/2023/11/Samsung-Galaxy-M44-Launched.jpg",
+   "mid": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgT1JWZw7gaZ5QhvbACJEBkdVp6SX1xvyCQ&usqp=CAU"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -502,26 +502,26 @@
       },
       "front": "16mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "5G connectivity",
-    "Long battery life",
-    "Large display",
-    "Affordable price"
-  ],
-  "images": [
-    "https://www.91-cdn.com/hub/wp-content/uploads/2022/03/A53_5G.jpg?tr=w-360,c-at_max,q-100,dpr-2,e-sharpen",
-    "https://images.meesho.com/images/products/196032063/xct3q_512.webp"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"Long battery life",
+    "f3":"Large display",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://www.91-cdn.com/hub/wp-content/uploads/2022/03/A53_5G.jpg?tr=w-360,c-at_max,q-100,dpr-2,e-sharpen",
+    "mid":"https://images.meesho.com/images/products/196032063/xct3q_512.webp"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -554,26 +554,26 @@
       },
       "front": "13mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "5G connectivity",
-    "Powerful processor",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDnLd5agC6o69eUE02TxvO8CaNCe7hnqIDw&usqp=CAU",
-    "https://mymobilesnews.com/wp-content/uploads/2021/06/Samsung-Galaxy-M35.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"Powerful processor",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDnLd5agC6o69eUE02TxvO8CaNCe7hnqIDw&usqp=CAU",
+    "mid":"https://mymobilesnews.com/wp-content/uploads/2021/06/Samsung-Galaxy-M35.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -606,26 +606,26 @@
       },
       "front": "32mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "8gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "5G connectivity",
-    "Super AMOLED display",
-    "Powerful processor",
-    "Long battery life"
-  ],
-  "images": [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBWsaAcs_Rr93AFKSP0_JaMv0h6ra6KcN4g&usqp=CAU",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2HO5yC7Qnjbgr9Dr_gtzyzVhbzqvIoamew&usqp=CAU"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"Super AMOLED display",
+    "f3":"Powerful processor",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBWsaAcs_Rr93AFKSP0_JaMv0h6ra6KcN4g&usqp=CAU",
+    "mid":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2HO5yC7Qnjbgr9Dr_gtzyzVhbzqvIoamew&usqp=CAU"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -657,26 +657,26 @@
       },
       "front": "13mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "5G connectivity",
-    "AMOLED display",
-    "Long battery life",
-    "Sleek design"
-  ],
-  "images": [
-    "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41znD9o6VRL._SX300_SY300_QL70_FMwebp_.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B6IpJ75yS0qgGkaF2rZHpQrVPxL_WfuzjWflQJTm9inTwUTuVX61rDsH-aWbw3kH0GM&usqp=CAU"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"5G connectivity",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Sleek design"
+  },
+  "images": {
+    "full":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/41znD9o6VRL._SX300_SY300_QL70_FMwebp_.jpg",
+    "mid":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5B6IpJ75yS0qgGkaF2rZHpQrVPxL_WfuzjWflQJTm9inTwUTuVX61rDsH-aWbw3kH0GM&usqp=CAU"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -710,26 +710,26 @@
       },
       "front": "32mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "8gb",
       "rom": "256gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Flagship processor",
-    "108MP quad camera",
-    "Super AMOLED Plus display",
-    "Long battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e146bzkgins/gallery/in-galaxy-f14-5g-sm-e146bzkgins-thumb-536038467?$240_240_PNG$",
-    "https://i.gadgets360cdn.com/large/galaxy_f14_5g_samsung_1679295508544.jpg?downsize=950:*"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Flagship processor",
+    "f2":"108MP quad camera",
+    "f3":"Super AMOLED Plus display",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-e146bzkgins/gallery/in-galaxy-f14-5g-sm-e146bzkgins-thumb-536038467?$240_240_PNG$",
+    "mid":"https://i.gadgets360cdn.com/large/galaxy_f14_5g_samsung_1679295508544.jpg?downsize=950:*"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -763,26 +763,26 @@
       },
       "front": "40mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "8gb",
       "rom": "256gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Flagship processor",
-    "108MP quad camera",
-    "Dynamic AMOLED 2X display",
-    "Long battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164853000/in-feature-galaxy-a-538644014?$FB_TYPE_A_JPG$",
-    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a057flvhins/gallery/in-galaxy-a-sm-a057flvhins-light-violet-light-violet-thumb-538631105?$240_240_PNG$"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Flagship processor",
+    "f2":"108MP quad camera",
+    "f3":"Dynamic AMOLED 2X display",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/164853000/in-feature-galaxy-a-538644014?$FB_TYPE_A_JPG$",
+    "mid":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-a057flvhins/gallery/in-galaxy-a-sm-a057flvhins-light-violet-light-violet-thumb-538631105?$240_240_PNG$"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -815,27 +815,27 @@
       },
       "front": "40mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "12gb",
       "rom": "256gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Flagship processor",
-    "108MP quad camera",
-    "Dynamic AMOLED 2X display",
-    "Large RAM capacity",
-    "Long battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e236bzghins/gallery/in-galaxy-f23-6gb-ram-sm-e236bzghins-531400637?$684_547_PNG$",
-    "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e236bidhins/gallery/in-galaxy-f23-6gb-ram-sm-e236bidhins-532476160?$684_547_PNG$"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    
+    "f1":"108MP quad camera",
+    "f2":"Dynamic AMOLED 2X display",
+    "f3":"Large RAM capacity",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-e236bzghins/gallery/in-galaxy-f23-6gb-ram-sm-e236bzghins-531400637?$684_547_PNG$",
+    "mid":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-e236bidhins/gallery/in-galaxy-f23-6gb-ram-sm-e236bidhins-532476160?$684_547_PNG$"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -868,26 +868,26 @@
       },
       "front": "32mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "8gb",
       "rom": "256gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "64MP triple camera",
-    "Super AMOLED Plus display",
-    "Long battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164683418/in-feature-galaxy-m-537426500?$FB_TYPE_A_JPG$",
-    "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164683419/in-feature-galaxy-m-537426502?$FB_TYPE_A_JPG$"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Powerful processor",
+    "f2":"64MP triple camera",
+    "f3":"Super AMOLED Plus display",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/164683418/in-feature-galaxy-m-537426500?$FB_TYPE_A_JPG$",
+    "mid":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/164683419/in-feature-galaxy-m-537426502?$FB_TYPE_A_JPG$"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -920,26 +920,26 @@
       },
       "front": "32mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "8gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "50MP triple camera",
-    "Super AMOLED display",
-    "Long battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a54/17125-A54-White-PDP-collage-720x720px.jpg?imwidth=480",
-    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a54/a54-5g-Awesome-Violet.jpg?imwidth=480"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Powerful processor",
+    "f2":"50MP triple camera",
+    "f3":"Super AMOLED display",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a54/17125-A54-White-PDP-collage-720x720px.jpg?imwidth=480",
+    "mid":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a54/a54-5g-Awesome-Violet.jpg?imwidth=480"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -972,26 +972,26 @@
       },
       "front": "32mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "8gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "Super AMOLED display",
-    "Long battery life"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/1440x450_1.jpg",
-    "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/blue.png?imwidth=480"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Powerful processor",
+    "f2":"48MP triple camera",
+    "f3":"Super AMOLED display",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/1440x450_1.jpg",
+    "mid":"https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/blue.png?imwidth=480"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1023,26 +1023,26 @@
       },
       "front": "13mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "Super AMOLED display",
-    "Long battery life"
-  ],
-  "images": [
-    "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/n/2/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrhrthmjwaamj.jpeg?q=70",
-    "https://gadgetstime.todaypriceindia.in/images/samsung-galaxy-m34-5g.webp"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"Powerful processor",
+    "f2":"48MP triple camera",
+    "f3":"Super AMOLED display",
+    "f4":"Long battery life"
+  },
+  "images": {
+    "full":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/n/2/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrhrthmjwaamj.jpeg?q=70",
+    "mid":"https://gadgetstime.todaypriceindia.in/images/samsung-galaxy-m34-5g.webp"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1075,27 +1075,27 @@
       },
       "front": "13mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "6gb",
       "rom": "128gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://images.samsung.com/is/image/samsung/p6pim/levant/feature/164944088/levant-feature-defining-simplicity-in-design-539450390?$FB_TYPE_A_JPG$",
-    "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a25-2.jpg."
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+   
+    "f1":"48MP triple camera",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images":{
+   "full": "https://images.samsung.com/is/image/samsung/p6pim/levant/feature/164944088/levant-feature-defining-simplicity-in-design-539450390?$FB_TYPE_A_JPG$",
+   "mid": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a25-2.jpg."
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1128,27 +1128,26 @@
       },
       "front": "8mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "4gb",
       "rom": "64gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://rukminim2.flixcart.com/image/416/416/xif0q/cases-covers/back-cover/f/o/6/subuz-1148-6579-mobom-original-imagpedkmtgyfeea.jpeg?q=70",
-    "https://usdmobiles.com/wp-content/uploads/2023/05/Samsung-Galaxy-M14-5G-Blue-color.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"48MP triple camera",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://rukminim2.flixcart.com/image/416/416/xif0q/cases-covers/back-cover/f/o/6/subuz-1148-6579-mobom-original-imagpedkmtgyfeea.jpeg?q=70",
+    "mid":"https://usdmobiles.com/wp-content/uploads/2023/05/Samsung-Galaxy-M14-5G-Blue-color.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1180,27 +1179,26 @@
       },
       "front": "8mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "4gb",
       "rom": "64gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/3156+WyZ5aL.jpg",
-    "https://www.thetechoutlook.com/wp-content/uploads/2022/10/Untitled-design-19-1.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"48MP triple camera",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/3156+WyZ5aL.jpg",
+    "mid":"https://www.thetechoutlook.com/wp-content/uploads/2022/10/Untitled-design-19-1.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1233,27 +1231,26 @@
       },
       "front": "8mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "4gb",
       "rom": "64gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://lh3.googleusercontent.com/spp/AE_ITi15Inu9v-YwIcW1MxDA8XnAdhFyiLTTF1tMAyLNbk9ESBa0nLbx7CPuujvaB5g3_HKRq8OoxmtJJyXgI0UszHbiMRPXEnMLcccI10onDaLz0Yqe6rIw310nZb3kRrQXrxspeCXmns4DzJOt22h353WhNJwgP74rvRzSgLPpcujKV9G7OewnediV7J0_2eHYX65_LjYcAA=s512-rw-pd-pc0x00ffffff",
-    "https://lh3.googleusercontent.com/spp/AE_ITi3IZiSS6NoCeM01f3PQNxsfbJjOnsTIRqUuSDO4FFqGRMcWJ9auuK8xYMkN8FQ3-s5QfZJ9EDVJiQr6s9B0JPVDp6511CJs_nlJPzCepH-NeCWwu941F3l29HSvn9v8LawVQjf3XERu6ohPOpihcPmFbJC9MeJKcKZQWXm_uHAwwHwg1yPUmQTjtGLyNVTCuIPDIJKmVw=s512-rw-pd-pc0x00ffffff"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features": {
+    "f1":"48MP triple camera",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://lh3.googleusercontent.com/spp/AE_ITi15Inu9v-YwIcW1MxDA8XnAdhFyiLTTF1tMAyLNbk9ESBa0nLbx7CPuujvaB5g3_HKRq8OoxmtJJyXgI0UszHbiMRPXEnMLcccI10onDaLz0Yqe6rIw310nZb3kRrQXrxspeCXmns4DzJOt22h353WhNJwgP74rvRzSgLPpcujKV9G7OewnediV7J0_2eHYX65_LjYcAA=s512-rw-pd-pc0x00ffffff",
+    "mid":"https://lh3.googleusercontent.com/spp/AE_ITi3IZiSS6NoCeM01f3PQNxsfbJjOnsTIRqUuSDO4FFqGRMcWJ9auuK8xYMkN8FQ3-s5QfZJ9EDVJiQr6s9B0JPVDp6511CJs_nlJPzCepH-NeCWwu941F3l29HSvn9v8LawVQjf3XERu6ohPOpihcPmFbJC9MeJKcKZQWXm_uHAwwHwg1yPUmQTjtGLyNVTCuIPDIJKmVw=s512-rw-pd-pc0x00ffffff"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1286,27 +1283,26 @@
       },
       "front": "8mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "4gb",
       "rom": "64gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://www.electrorates.com/blogimg/samsung_Galaxy_M05.webp",
-    "https://i1.wp.com/mobilesly.com/wp-content/uploads/2022/04/Samsung-Galaxy-A54.jpg?fit=498%2C557&ssl=1"
-  ],
-  "tofeature": false,
-  "weeklyoffer": false,
-  "specialoffer": false
+  "features":{
+    "f1":"48MP triple camera",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://www.electrorates.com/blogimg/samsung_Galaxy_M05.webp",
+    "mid":"https://i1.wp.com/mobilesly.com/wp-content/uploads/2022/04/Samsung-Galaxy-A54.jpg?fit=498%2C557&ssl=1"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 0,
+  "specialoffer": 0
 },
 
 {
@@ -1338,28 +1334,25 @@
       },
       "front": "8mp"
     },
-    "battery": 5000,
+    "battery": "5000mAH",
     "storage": {
       "ram": "4gb",
       "rom": "64gb"
     },
     "operatingSystem": "Android 14"
   },
-  "features": [
-    "Powerful processor",
-    "48MP triple camera",
-    "AMOLED display",
-    "Long battery life",
-    "Affordable price"
-  ],
-  "images": [
-    "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71+b5nG+WFL._SL1500_.jpg",
-    "https://hindi.maharashtranama.com/wp-content/uploads/2023/07/Samsung-Galaxy-A05-1.jpg"
-  ],
-  "tofeature": false,
-  "weeklyoffer": true,
-  "specialoffer": false
-}
+  "features": {
+    "f1":"48MP triple camera",
+    "f2":"AMOLED display",
+    "f3":"Long battery life",
+    "f4":"Affordable price"
+  },
+  "images": {
+    "full":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71+b5nG+WFL._SL1500_.jpg",
+    "mid":"https://hindi.maharashtranama.com/wp-content/uploads/2023/07/Samsung-Galaxy-A05-1.jpg"
+  },
+  "tofeature": 0,
+  "weeklyoffer": 1,
+  "specialoffer": 0}
     
 ]
-

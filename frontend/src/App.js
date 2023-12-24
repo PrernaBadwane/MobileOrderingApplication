@@ -1,9 +1,9 @@
 import './App.css';
 import{Routes,Route, BrowserRouter} from "react-router-dom";
-import Home from "./moibleComponents/home"
-import Products from './moibleComponents/productList';
-import View from "./moibleComponents/viewProduct"
-import Error from "./moibleComponents/errorPage"
+import Home from "./moibleComponents/Home"
+import Products from './moibleComponents/ProductList';
+import View from "./moibleComponents/ViewProduct"
+import Error from "./moibleComponents/Error"
 import Header from "./moibleComponents/components/Navbar"
 
 function App() {

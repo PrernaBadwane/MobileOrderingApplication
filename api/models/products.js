@@ -109,24 +109,38 @@ const productSchema= new mongoose.Schema({
         }
         },
         features: {
-            type: [String], 
-            required: true,
+          f1:{
+            type:String,
+          required:true,
+          },
+          f2:{type:String,
+            required:true,},
+            f3:{
+              type:String,
+            required:true,
+            },
+            f4:{type:String,
+              required:true,},
           },
         images: {
-            type: [String],
-            required: true,
+            full:{
+              type:String,
+            required:true,
+            },
+            mid:{type:String,
+              required:true,},
           },
-        tofeatur1e:{
-            type:Boolean,
-            default:false,
+          tofeature:{
+            type:Number,
+            default:0,
         },
         weeklyoffer:{
-            type:Boolean,
-            default:false,
+          type:Number,
+          default:0,
         },
         specialoffer:{
-            type:Boolean,
-            default:false,
+          type:Number,
+          default:0,
         },
        
       

@@ -4,7 +4,7 @@ const Products =require("../models/products")
 
 const getAllProducts=async(req,res)=>{
  
-    const {model,price,processer,rom,ram,operatingSystem,select}=req.query;
+    const {model,price,processer,rom,ram,operatingSystem,select,tofeature,weeklyoffer,specialoffer}=req.query;
     const queryObject={}
     
     if(model){
@@ -24,6 +24,15 @@ const getAllProducts=async(req,res)=>{
     }
     if(operatingSystem){
         queryObject.operatingSystem={$regex:operatingSystem,$options:"i"};
+    }
+    if(tofeature){
+        queryObject.tofeature=tofeature;
+    }
+    if(weeklyoffer){
+        queryObject.weeklyoffer=weeklyoffer;
+    }
+    if(specialoffer){
+        queryObject.specialoffer=specialoffer;
     }
 
     let apiData=Products.find(queryObject);
