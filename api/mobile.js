@@ -9,7 +9,7 @@ mobile.use((req, res, next) => {
     res.header('Access-Control-Allow-Headers', 'Content-Type');
     next();
 });
-
+const url="mongodb+srv://prernabadwane:DcHAHhHTTj3TSMcl@mobileapi.0d9gq2e.mongodb.net/MobileWebApp?retryWrites=true&w=majority"
 const PORT =process.env.PORT || 5000;
 
 const products_routrs= require("./routes/products")
@@ -24,7 +24,7 @@ mobile.use("/api/products",products_routrs)
 
 const start =async()=>{
     try {
-        await connectDB(process.env.MONGODB_URI);
+        await connectDB(url);
         mobile.listen(PORT,()=>{
             console.log(`${PORT} ,I am connected`);
         })
