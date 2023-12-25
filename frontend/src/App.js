@@ -1,11 +1,10 @@
 import './App.css';
-import{Routes,Route, BrowserRouter} from "react-router-dom";
-import Home from "./moibleComponents/Home"
-import Products from './moibleComponents/ProductList';
-
-
+import{Routes,Route, BrowserRouter, Navigate} from "react-router-dom";
+import SearchProducts from './moibleComponents/SearchProducts';
+import Products from './moibleComponents/ProductsList';
 import Header from "./moibleComponents/components/Navbar";
 import ProductsCard from './moibleComponents/components/ProductsCard';
+import Footer from './moibleComponents/components/Footer';
 
 function App() {
   return (
@@ -13,12 +12,13 @@ function App() {
     <BrowserRouter>
     <Header/>
     <Routes>
-      <Route path='/' element={<Home/>}/>
-      <Route path="/products"  element={<Products/>}/>
-      <Route path="/productsCard"  element={<ProductsCard/>}/>
-      
-     
+    <Route path="/" element={<Navigate to="/products" />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/productsCard" element={<ProductsCard />} />
+          <Route path="/productsSearch" element={<SearchProducts />} />
+        
     </Routes>
+    <Footer/>
     </BrowserRouter>
     </div>
     

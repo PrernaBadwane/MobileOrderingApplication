@@ -4,7 +4,7 @@ const Products =require("../models/products")
 
 const getAllProducts=async(req,res)=>{
  
-    const {model,price,processer,rom,ram,operatingSystem,select,tofeature,weeklyoffer,specialoffer}=req.query;
+    const {model,price,processer,rom,ram,operatingSystem,select,tofeature,weeklyoffer,specialoffer,specifications}=req.query;
     const queryObject={}
     
     if(model){
@@ -14,7 +14,7 @@ const getAllProducts=async(req,res)=>{
         queryObject.price=price;
     }
     if(processer){
-        queryObject.processer={$regex:processer,$options:"i"};
+        queryObject["specifications.processer"]={$regex:processer,$options:"i"};
     }
     if(rom){
         queryObject.rom=rom;
@@ -23,7 +23,7 @@ const getAllProducts=async(req,res)=>{
         queryObject.ram=ram;
     }
     if(operatingSystem){
-        queryObject.operatingSystem={$regex:operatingSystem,$options:"i"};
+        queryObject["specifications.operatingSystem"]={$regex:operatingSystem,$options:"i"};
     }
     if(tofeature){
         queryObject.tofeature=tofeature;
@@ -34,6 +34,7 @@ const getAllProducts=async(req,res)=>{
     if(specialoffer){
         queryObject.specialoffer=specialoffer;
     }
+    
 
     let apiData=Products.find(queryObject);
     
@@ -41,6 +42,11 @@ const getAllProducts=async(req,res)=>{
         let selectFix=select.split(",").join(" ");
         apiData=apiData.select(selectFix);
     }
+    let pages=Number(req.query.pages)|| 1;
+    let limit=Number(req.query.limit)||3;
+    let skip=(pages-1)*limit;
+    apiData=apiData.skip(skip).limit(limit);
+
     
     
 

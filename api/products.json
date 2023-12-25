@@ -6,13 +6,13 @@
         "price": 89999,
         "currency": "INR",
         "availability": "pre-order",
-        "offers": [
+        "offers": 
           {
             "type": "percentage",
             "value": 10,
             "description": "Pre-order now and get 10% off!"
           }
-        ],
+        ,
         "specifications": {
           "display": {
             "size": "6.8 inches",
@@ -60,13 +60,13 @@
       "price": 74999,
       "currency": "INR",
       "availability": "in_stock",
-      "offers": [
+      "offers": 
         {
           "type": "cashback",
           "value": 5000,
           "description": "Get ₹5,000 cashback on HDFC cards"
         }
-      ],
+      ,
       "specifications": {
         "display": {
           "size": "7.6 inches (folded)",
@@ -88,7 +88,7 @@
           "ram": "12gb",
           "rom": "512gb"
         },
-        "operatingSystem": "Android 13"
+        "operatingSystem": "iOS"
       },
       "features": {
         "f1":"Under-display camera",
@@ -98,7 +98,7 @@
       },
       "images": {
         "full":"https://www.livemint.com/lm-img/img/2023/07/24/600x338/galaxy_z_fold_5_1690179206022_1690179212959.png",
-        "mid":"https://images.samsung.com/in/smartphones/galaxy-z-fold5/images/galaxy-z-fold5-highlights-kv-a.jpg?imbypass=1"
+        "mid":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660689596976"
       },
       "tofeature": 1,
       "weeklyoffer": 0,
@@ -113,13 +113,13 @@
     "price": 21999,
     "currency": "INR",
     "availability": "not available",
-    "offers": [
+    "offers": 
       {
         "type": "discount",
         "value": 2000,
         "description": "₹2,000 instant discount"
       }
-    ],
+    ,
     "specifications": {
       "display": {
         "size": "6.6 inches",
@@ -151,7 +151,7 @@
     },
     "images": {
       "full":"https://i.ebayimg.com/images/g/L8YAAOSwkSdlWIoF/s-l960.jpg",
-      "mid":"https://img.olhardigital.com.br/wp-content/uploads/2023/04/galaxy-m54-costas.jpg"
+      "mid":"https://motorolain.vtexassets.com/arquivos/ids/158550-800-auto?width=800&height=auto&aspect=true"
     },
     "tofeature": 0,
     "weeklyoffer": 0,
@@ -166,12 +166,12 @@
   "price": 64999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "exchange",
       "description": "Get up to ₹15,000 exchange bonus on eligible smartphones"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.6 inches",
@@ -218,12 +218,12 @@
   "price": 18999,
   "currency": "INR",
   "availability": "pre-order",
-  "offers": [
+  "offers": 
     {
       "type": "zero_cost_emi",
       "description": "No-cost EMI available for up to 6 months"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.7 inches",
@@ -256,7 +256,7 @@
   },
   "images": {
     "full":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989028?$FB_TYPE_A_JPG$",
-    "mid":"https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-f54-536989064?$FB_TYPE_A_JPG$"
+    "mid":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1693086290312"
   },
   "tofeature": 0,
   "weeklyoffer": 1,
@@ -271,12 +271,12 @@
   "price": 112000,
   "currency": "INR",
   "availability": "pre-order",
-  "offers": [
+  "offers": 
     {
       "type": "free_gift",
       "description": "Get a free Galaxy Watch 5 with pre-order"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches (unfolded)",
@@ -322,13 +322,13 @@
   "price": 15999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "discount",
       "value": 1000,
       "description": "₹1,000 instant discount on SBI Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",
@@ -375,13 +375,13 @@
   "price": 15999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "discount",
       "value": 1000,
       "description": "₹1,000 instant discount on ICICI Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",
@@ -427,13 +427,13 @@
   "price": 21999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "discount",
       "value": 2000,
       "description": "₹2,000 instant discount"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.6 inches",
@@ -479,12 +479,12 @@
   "price": 19999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "zero_cost_emi",
       "description": "No-cost EMI available for up to 6 months"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.7 inches",
@@ -531,13 +531,13 @@
   "price": 14999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "cashback",
       "value": 1500,
       "description": "₹1,500 cashback on HDFC Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.5 inches",
@@ -583,13 +583,13 @@
   "price": 23999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "exchange_offer",
       "value": 2000,
       "description": "Get up to ₹2,000 off on exchange"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.7 inches",
@@ -635,12 +635,12 @@
   "price": 17999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "bundle_offer",
       "description": "Get free Galaxy Buds Live with purchase"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.6 inches",
@@ -686,13 +686,13 @@
   "price": 25999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "discount",
       "value": 3000,
       "description": "₹3,000 instant discount on SBI Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.7 inches",
@@ -739,13 +739,13 @@
   "price": 31999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "exchange_offer",
       "value": 4000,
       "description": "Get up to ₹4,000 off on exchange"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.7 inches",
@@ -792,12 +792,12 @@
   "price": 29999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "bundle_offer",
       "description": "Get free Galaxy Buds Pro with purchase"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.8 inches",
@@ -845,13 +845,13 @@
   "price": 27999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "cashback",
       "value": 5000,
       "description": "₹5,000 cashback on select bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.7 inches",
@@ -897,13 +897,13 @@
   "price": 24999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "exchange_offer",
       "value": 3500,
       "description": "Get up to ₹3,500 off on exchange"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.6 inches",
@@ -949,13 +949,13 @@
   "price": 22999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "discount",
       "value": 2500,
       "description": "₹2,500 instant discount on ICICI Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.6 inches",
@@ -1001,12 +1001,12 @@
   "price": 19999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "bundle_offer",
       "description": "Get free Galaxy Fit 3 fitness band with purchase"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.5 inches",
@@ -1052,13 +1052,13 @@
   "price": 15999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "cashback",
       "value": 1200,
       "description": "₹1,200 cashback on HDFC Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.5 inches",
@@ -1105,13 +1105,13 @@
   "price": 13999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "exchange_offer",
       "value": 1500,
       "description": "Get up to ₹1,500 off on exchange"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",
@@ -1157,12 +1157,12 @@
   "price": 12999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "no_cost_emi",
       "description": "No-cost EMI options available"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",
@@ -1208,13 +1208,13 @@
   "price": 11999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "discount",
       "value": 500,
       "description": "₹500 instant discount on Axis Bank cards"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",
@@ -1260,13 +1260,13 @@
   "price": 10999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "exchange_offer",
       "value": 750,
       "description": "Get up to ₹750 off on exchange"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",
@@ -1312,12 +1312,12 @@
   "price": 9999,
   "currency": "INR",
   "availability": "in_stock",
-  "offers": [
+  "offers": 
     {
       "type": "bundle_offer",
       "description": "Get free Galaxy Buds Live with purchase"
     }
-  ],
+  ,
   "specifications": {
     "display": {
       "size": "6.4 inches",

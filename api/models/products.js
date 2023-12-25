@@ -26,8 +26,8 @@ const productSchema= new mongoose.Schema({
             type:String,
             required:true,
         },
-        offers: [
-          {
+        offers: {
+          
             type: {
                 type:String,
                
@@ -40,8 +40,8 @@ const productSchema= new mongoose.Schema({
                 type:String,
                 
             }
-          }
-        ],
+          
+        },
         specifications: {
           display: {
             size: {
