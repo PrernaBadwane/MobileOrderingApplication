@@ -6,16 +6,17 @@
 
 
 
-<p>npm init -y     </p> 
-<p>npn i express </p>
-<p>npm i nodemon </p>
-<p>npm i mongoose   </p> 
-<p>npm i dotenv   </p>      
+
+     
 
 
 <p>after installing all the dependencies</p>
 <p>run commands in terminal 1</p>
 <p>cd api</p>
+<p>npm i express </p>
+<p>npm i nodemon </p>
+<p>npm i mongoose   </p> 
+<p>npm i dotenv   </p> 
 <p>npm run dev</p>
 
 <p>run commmands in terminal 2</p>
@@ -29,4 +30,5 @@
 <p>npm i react-router-dom</p>
 <p>npm install -D tailwindcss</p>
 <p>npm install axios</p>
+
 <p>npm start</p>
