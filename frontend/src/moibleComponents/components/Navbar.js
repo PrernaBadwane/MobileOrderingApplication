@@ -57,7 +57,7 @@ const Navbar = () => {
     };
     const handleSearchCriteriaChange = (criteria) => {
       setSearchCriteria(criteria);
-      setToggle2(false);
+      setToggle1(false);
     };
 
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -74,7 +74,7 @@ const Navbar = () => {
         <div>
             <NavLink to={"/"}> 
 
-        <h1 className='font-Sevillana text-base font-bold text-[#66FCF1]'>Pixel</h1>
+        <h1 className='font-Sevillan text-base  text-[#FFA500]'>M-Pick</h1>
         </NavLink>
         </div>
         <div className=' md:static absolute bg-[#0B0C10] md:min-h-fit min-h-[100%] left-0 top-[-100%] w-full flex  items-top px-5  '>
@@ -93,11 +93,11 @@ const Navbar = () => {
             value={searchInput}
             onChange={handleSearchInputChange}
             onKeyPress={handleEnterKeyPress}
-            className="peer cursor-pointer relative z-10 h-7 w-8 rounded-full border border-[#66FCF1] bg-transparent pl-12 outline-none focus:w-full focus:cursor-text focus:cursor-h-6 focus:border-[#66FCF1] focus:pl-16 focus:pr-4 focus:text-white"
+            className="peer cursor-pointer relative z-10 h-7 w-8 rounded-full border border-[#FFA500] bg-transparent pl-12 outline-none focus:w-full focus:cursor-text focus:cursor-h-6 focus:border-[#FFA500] focus:pl-16 focus:pr-4 focus:text-white"
           />
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="absolute inset-y-0 my-auto h-8 w-12 border-r border-transparent stroke-[#66FCF1] px-3.5 peer-focus:border-[#66FCF1] peer-focus:h-5 peer-focus:stroke-[#66FCF1]"
+            className="absolute inset-y-0 my-auto h-8 w-12 border-r border-transparent stroke-[#FFA500] px-3.5 peer-focus:border-[#FFA500] peer-focus:h-5 peer-focus:stroke-[#FFA500]"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -169,13 +169,13 @@ const Navbar = () => {
 
          
             <div className='flex gap-[2vw] mt-1 '>
-            <svg className="w-5 h-5 text-[#66FCF1] dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 14 18">
+            <svg className="w-5 h-5 text-[#FFA500] dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 14 18">
     <path d="M7 9a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Zm2 1H5a5.006 5.006 0 0 0-5 5v2a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2a5.006 5.006 0 0 0-5-5Z"/>
   </svg>
           
             <svg
           onClick={handleToggleClickpage}
-          className="w-5 h-5 text-[#66FCF1] dark:text-white pt-1 md:hidden"
+          className="w-5 h-5 text-[#FFA500] dark:text-white pt-1 md:hidden"
           aria-hidden="true"
           xmlns="http://www.w3.org/2000/svg"
           fill="currentColor"
@@ -186,8 +186,8 @@ const Navbar = () => {
         {toggle2 && (
           <div className=' md:hidden md:static absolute bg-[#0B0C10] md:min-h-fit min-h-[100%] left-0 top-[9%] w-full flex  items-top px-10 pt-5 '>
           <ul className='flex md:flex-row flex-col item-:item-center md:gap-[4vw] gap-8 text-[#C5C6C7]'>
-          {/* <NavLink  onClick={handleToggleClick} to={"/"}>   <li className='hover:text-[#66FCF1]'>Home</li></NavLink> */}
-            <NavLink onClick={handleToggleClickpage}  to={"/"}>  <li className='hover:text-[#66FCF1]'>Products</li></NavLink>
+          {/* <NavLink  onClick={handleToggleClick} to={"/"}>   <li className='hover:text-[#FFA500]'>Home</li></NavLink> */}
+            <NavLink onClick={handleToggleClickpage}  to={"/"}>  <li className='hover:text-[#FFA500]'>Products</li></NavLink>
             </ul>
           </div>
         )}
